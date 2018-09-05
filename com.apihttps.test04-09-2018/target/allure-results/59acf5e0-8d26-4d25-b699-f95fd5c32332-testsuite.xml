@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1536068752048" stop="1536068758958" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : RLtoWOP</name>
+    <title>Suite : RLtoWOP</title>
+    <test-cases>
+        <test-case start="1536068752049" stop="1536068752052" status="pending">
+            <name>ConnectDB</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068752053" stop="1536068752053" status="pending">
+            <name>aspectRatio</name>
+            <title>Comparing ASPECT_RATIO in Zeus and WOP</title>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068752053" stop="1536068752053" status="pending">
+            <name>executeFinalWopApiwithAccessTokenandToken</name>
+            <title>Execute WOP API Test case using  Token as a Authorization bearer token</title>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068752053" stop="1536068752053" status="pending">
+            <name>duration</name>
+            <title>Comparing Definition in Zeus and WOP</title>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068752053" stop="1536068752053" status="pending">
+            <name>compareShowType</name>
+            <title>Compare ShowType Values in RL and WOP</title>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="story" value="RLToWOP Test--"/>
+                <label name="feature" value="RLToWOP Test--"/>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068752055" stop="1536068753252" status="passed">
+            <name>executeRLAPIforgettingAccessToken</name>
+            <title>Execute RL API Test case for Getting Access Token</title>
+            <steps>
+                <step start="1536068752056" stop="1536068752056" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068752112" stop="1536068752112" status="passed">
+                    <name>logStep[Get the details from Excel]</name>
+                    <title>Get the details from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068752113" stop="1536068752113" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068752149" stop="1536068752149" status="passed">
+                    <name>logStep[Check request details from Excel]</name>
+                    <title>Check request details from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068752150" stop="1536068752150" status="passed">
+                    <name>logStep[request is not in JSON formate : --username=Integration&amp;password=Integration&amp;grant_type=password]</name>
+                    <title>request is not in JSON formate : --username=Integration&amp;password=Integration&amp;grant_type=password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068752151" stop="1536068752151" status="passed">
+                    <name>logStep[Http Client service is invoked]</name>
+                    <title>Http Client service is invoked</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068752153" stop="1536068752153" status="passed">
+                    <name>logStep[apirequest is  : --username=Integration&amp;password=Integration&amp;grant_type=password]</name>
+                    <title>apirequest is  : --username=Integration&amp;password=Integration&amp;grant_type=password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068752153" stop="1536068752153" status="passed">
+                    <name>logStep[Executing request with http Post method]</name>
+                    <title>Executing request with http Post method</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753236" stop="1536068753236" status="passed">
+                    <name>logStep[Response is : HttpResponseProxy{HTTP/1.1 200 OK [Cache-Control: no-cache, Pragma: no-cache, Content-Type: applic...]</name>
+                    <title>Response is : HttpResponseProxy{HTTP/1.1 200 OK [Cache-Control: no-cache, Pragma: no-cache, Content-Type: application/js...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753238" stop="1536068753238" status="passed">
+                    <name>logStep[API Executed Successully : ]</name>
+                    <title>API Executed Successully : </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753241" stop="1536068753241" status="passed">
+                    <name>logStep[API Esecuted Successfully]</name>
+                    <title>API Esecuted Successfully</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753245" stop="1536068753245" status="passed">
+                    <name>logStep[{"ES_MM2MEDIAASSET":{"timeCodeProfile":"","allMedias":{"ES_MM2MEDIA":{"label":"L00002534"}},"product":{"ES_PRODU...]</name>
+                    <title>{"ES_MM2MEDIAASSET":{"timeCodeProfile":"","allMedias":{"ES_MM2MEDIA":{"label":"L00002534"}},"product":{"ES_PRODUCT":{"nu...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753248" stop="1536068753248" status="passed">
+                    <name>logStep[access_token value is :49X-p2P0Xd4_bOOlng3x2gh-8-jGDNWVGqCFktr5Ex04cac5ctyi6ViP-celkMe0cye7PAAngQq8_1MVvM_sATcyx...]</name>
+                    <title>access_token value is :49X-p2P0Xd4_bOOlng3x2gh-8-jGDNWVGqCFktr5Ex04cac5ctyi6ViP-celkMe0cye7PAAngQq8_1MVvM_sATcyxtM-4V8hW...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="story" value="RLToWOP Test--"/>
+                <label name="feature" value="RLToWOP Test--"/>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068753262" stop="1536068753954" status="passed">
+            <name>executeRLGetApiwithAccessToken</name>
+            <title>Execute RL API Test case using Access Token as a Authorization bearer token</title>
+            <steps>
+                <step start="1536068753265" stop="1536068753265" status="passed">
+                    <name>logStep[Started executing API Testing]</name>
+                    <title>Started executing API Testing</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753267" stop="1536068753267" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753324" stop="1536068753324" status="passed">
+                    <name>logStep[Verify Api Type is Get  or Post]</name>
+                    <title>Verify Api Type is Get  or Post</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753325" stop="1536068753325" status="passed">
+                    <name>logStep[Given url is Get API continue execution]</name>
+                    <title>Given url is Get API continue execution</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753326" stop="1536068753326" status="passed">
+                    <name>logStep[Given API is : http://rldvsvc01-awsnp.amcnetworks.com:8005/api/AssetMaintenance/Asset/AssetID/161393]</name>
+                    <title>Given API is : http://rldvsvc01-awsnp.amcnetworks.com:8005/api/AssetMaintenance/Asset/AssetID/161393</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753327" stop="1536068753327" status="passed">
+                    <name>logStep[Using Access tokena as Bearer : 49X-p2P0Xd4_bOOlng3x2gh-8-jGDNWVGqCFktr5Ex04cac5ctyi6ViP-celkMe0cye7PAAngQq8_1MV...]</name>
+                    <title>Using Access tokena as Bearer : 49X-p2P0Xd4_bOOlng3x2gh-8-jGDNWVGqCFktr5Ex04cac5ctyi6ViP-celkMe0cye7PAAngQq8_1MVvM_sATcy...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753327" stop="1536068753327" status="passed">
+                    <name>logStep[Headers are: : Authorization------Bearer 49X-p2P0Xd4_bOOlng3x2gh-8-jGDNWVGqCFktr5Ex04cac5ctyi6ViP-celkMe0cye7PAA...]</name>
+                    <title>Headers are: : Authorization------Bearer 49X-p2P0Xd4_bOOlng3x2gh-8-jGDNWVGqCFktr5Ex04cac5ctyi6ViP-celkMe0cye7PAAngQq8_1M...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753936" stop="1536068753936" status="passed">
+                    <name>logStep[Execution Completed and reading response now]</name>
+                    <title>Execution Completed and reading response now</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753938" stop="1536068753938" status="passed">
+                    <name>logStep[Verify Status code in response]</name>
+                    <title>Verify Status code in response</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753943" stop="1536068753943" status="passed">
+                    <name>logStep[API Esecuted Successfully]</name>
+                    <title>API Esecuted Successfully</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068753949" stop="1536068753949" status="passed">
+                    <name>logStep[{"ES_MM2MEDIAASSET":{"timeCodeProfile":"","allMedias":{"ES_MM2MEDIA":{"label":"L00002534"}},"product":{"ES_PRODU...]</name>
+                    <title>{"ES_MM2MEDIAASSET":{"timeCodeProfile":"","allMedias":{"ES_MM2MEDIA":{"label":"L00002534"}},"product":{"ES_PRODUCT":{"nu...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="story" value="RLToWOP Test--"/>
+                <label name="feature" value="RLToWOP Test--"/>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068753960" stop="1536068755282" status="passed">
+            <name>executeWOPApiforAccessToken</name>
+            <title>Execute WOP API Test case using Access Token as a Authorization bearer token</title>
+            <steps>
+                <step start="1536068753964" stop="1536068753964" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068754033" stop="1536068754033" status="passed">
+                    <name>logStep[Get the details from Excel]</name>
+                    <title>Get the details from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068754033" stop="1536068754033" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068754076" stop="1536068754076" status="passed">
+                    <name>logStep[Check request details from Excel]</name>
+                    <title>Check request details from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068754077" stop="1536068754077" status="passed">
+                    <name>logStep[request is not in JSON formate : --grant_type=client_credentials&amp;client_id=cebff59a-4e80-4a47-9c2a-6e25ec3c5397&amp;...]</name>
+                    <title>request is not in JSON formate : --grant_type=client_credentials&amp;client_id=cebff59a-4e80-4a47-9c2a-6e25ec3c5397&amp;client_s...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068754078" stop="1536068754078" status="passed">
+                    <name>logStep[Http Client service is invoked]</name>
+                    <title>Http Client service is invoked</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068754080" stop="1536068754080" status="passed">
+                    <name>logStep[apirequest is  : --grant_type=client_credentials&amp;client_id=cebff59a-4e80-4a47-9c2a-6e25ec3c5397&amp;client_secret=xY...]</name>
+                    <title>apirequest is  : --grant_type=client_credentials&amp;client_id=cebff59a-4e80-4a47-9c2a-6e25ec3c5397&amp;client_secret=xY2sJ4xW1b...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068754083" stop="1536068754083" status="passed">
+                    <name>logStep[Executing request with http Post method]</name>
+                    <title>Executing request with http Post method</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755266" stop="1536068755266" status="passed">
+                    <name>logStep[Response is : HttpResponseProxy{HTTP/1.1 200 OK [X-Backside-Transport: FAIL FAIL, Connection: Keep-Alive, Transf...]</name>
+                    <title>Response is : HttpResponseProxy{HTTP/1.1 200 OK [X-Backside-Transport: FAIL FAIL, Connection: Keep-Alive, Transfer-Encod...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755269" stop="1536068755269" status="passed">
+                    <name>logStep[API Executed Successully : ]</name>
+                    <title>API Executed Successully : </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755273" stop="1536068755274" status="passed">
+                    <name>logStep[API Esecuted Successfully]</name>
+                    <title>API Esecuted Successfully</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755277" stop="1536068755277" status="passed">
+                    <name>logStep[{"ES_MM2MEDIAASSET":{"timeCodeProfile":"","allMedias":{"ES_MM2MEDIA":{"label":"L00002534"}},"product":{"ES_PRODU...]</name>
+                    <title>{"ES_MM2MEDIAASSET":{"timeCodeProfile":"","allMedias":{"ES_MM2MEDIA":{"label":"L00002534"}},"product":{"ES_PRODUCT":{"nu...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755278" stop="1536068755278" status="passed">
+                    <name>logStep[access_token value is :AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3Cm4Yj1H2XQj11Rt5bJoUpNxZFzK-DjLcDT4RB...]</name>
+                    <title>access_token value is :AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3Cm4Yj1H2XQj11Rt5bJoUpNxZFzK-DjLcDT4RBNoKLQlF4...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="story" value="RLToWOP Test--"/>
+                <label name="feature" value="RLToWOP Test--"/>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068755292" stop="1536068756785" status="passed">
+            <name>executeWOPApiforToken</name>
+            <title>Execute WOP API Test case using  Token as a Authorization bearer token</title>
+            <steps>
+                <step start="1536068755294" stop="1536068755294" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755341" stop="1536068755341" status="passed">
+                    <name>logStep[Get the details from Excel]</name>
+                    <title>Get the details from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755342" stop="1536068755342" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755385" stop="1536068755385" status="passed">
+                    <name>logStep[Check request details from Excel]</name>
+                    <title>Check request details from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755386" stop="1536068755386" status="passed">
+                    <name>logStep[Request in Json formate]</name>
+                    <title>Request in Json formate</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755386" stop="1536068755386" status="passed">
+                    <name>logStep[request is not in JSON formate : --{"username":"restRightsLogic1", "password": "abcd1234"} ]</name>
+                    <title>request is not in JSON formate : --{"username":"restRightsLogic1", "password": "abcd1234"} </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755387" stop="1536068755387" status="passed">
+                    <name>logStep[Http Client service is invoked]</name>
+                    <title>Http Client service is invoked</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755389" stop="1536068755389" status="passed">
+                    <name>logStep[apirequest is  : --{"username":"restRightsLogic1", "password": "abcd1234"} ]</name>
+                    <title>apirequest is  : --{"username":"restRightsLogic1", "password": "abcd1234"} </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755390" stop="1536068755390" status="passed">
+                    <name>logStep[Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJ...]</name>
+                    <title>Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd29...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755391" stop="1536068755391" status="passed">
+                    <name>logStep[Headers are: : Content-Type------application/json]</name>
+                    <title>Headers are: : Content-Type------application/json</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755391" stop="1536068755391" status="passed">
+                    <name>logStep[Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJ...]</name>
+                    <title>Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd29...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755392" stop="1536068755392" status="passed">
+                    <name>logStep[Using Access tokena as Bearer : AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3Cm4Yj1H2XQj11Rt5bJoUpNxZFzK-...]</name>
+                    <title>Using Access tokena as Bearer : AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3Cm4Yj1H2XQj11Rt5bJoUpNxZFzK-DjLcDT4R...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755393" stop="1536068755393" status="passed">
+                    <name>logStep[Headers are: : Authorization------Bearer AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3Cm4Yj1H2XQj11Rt5bJo...]</name>
+                    <title>Headers are: : Authorization------Bearer AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3Cm4Yj1H2XQj11Rt5bJoUpNxZFzK...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755394" stop="1536068755394" status="passed">
+                    <name>logStep[Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJ...]</name>
+                    <title>Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd29...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755394" stop="1536068755394" status="passed">
+                    <name>logStep[Headers are: : Accept------application/json]</name>
+                    <title>Headers are: : Accept------application/json</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755395" stop="1536068755395" status="passed">
+                    <name>logStep[Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJ...]</name>
+                    <title>Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd29...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755396" stop="1536068755396" status="passed">
+                    <name>logStep[Headers are: : endpoint------https://cap-sg-prd-4.integration.ibmcloud.com:17433]</name>
+                    <title>Headers are: : endpoint------https://cap-sg-prd-4.integration.ibmcloud.com:17433</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755398" stop="1536068755398" status="passed">
+                    <name>logStep[Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJ...]</name>
+                    <title>Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd29...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755398" stop="1536068755398" status="passed">
+                    <name>logStep[Headers are: : resource------/dev/program/login]</name>
+                    <title>Headers are: : resource------/dev/program/login</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755399" stop="1536068755399" status="passed">
+                    <name>logStep[Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJ...]</name>
+                    <title>Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd29...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755400" stop="1536068755400" status="passed">
+                    <name>logStep[Headers are: : tls-profile------asit-wo-101059121-50697]</name>
+                    <title>Headers are: : tls-profile------asit-wo-101059121-50697</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755400" stop="1536068755400" status="passed">
+                    <name>logStep[Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJ...]</name>
+                    <title>Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd29...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755401" stop="1536068755401" status="passed">
+                    <name>logStep[Headers are: : x-ibm-client-id------cebff59a-4e80-4a47-9c2a-6e25ec3c5397]</name>
+                    <title>Headers are: : x-ibm-client-id------cebff59a-4e80-4a47-9c2a-6e25ec3c5397</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068755402" stop="1536068755402" status="passed">
+                    <name>logStep[Executing post API with Http Post method]</name>
+                    <title>Executing post API with Http Post method</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756764" stop="1536068756764" status="passed">
+                    <name>logStep[Response is : HttpResponseProxy{HTTP/1.1 200 OK [X-Backside-Transport: OK OK, Connection: Keep-Alive, Transfer-E...]</name>
+                    <title>Response is : HttpResponseProxy{HTTP/1.1 200 OK [X-Backside-Transport: OK OK, Connection: Keep-Alive, Transfer-Encoding:...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756766" stop="1536068756766" status="passed">
+                    <name>logStep[API Executed Successully : ]</name>
+                    <title>API Executed Successully : </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756771" stop="1536068756771" status="passed">
+                    <name>logStep[API Esecuted Successfully]</name>
+                    <title>API Esecuted Successfully</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756776" stop="1536068756776" status="passed">
+                    <name>logStep[{"ES_MM2MEDIAASSET":{"timeCodeProfile":"","allMedias":{"ES_MM2MEDIA":{"label":"L00002534"}},"product":{"ES_PRODU...]</name>
+                    <title>{"ES_MM2MEDIAASSET":{"timeCodeProfile":"","allMedias":{"ES_MM2MEDIA":{"label":"L00002534"}},"product":{"ES_PRODUCT":{"nu...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756779" stop="1536068756779" status="passed">
+                    <name>logStep[token value is :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd29yZCI6bnV...]</name>
+                    <title>token value is :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd29yZCI6bnVsbCwiaWF...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="story" value="RLToWOP Test--"/>
+                <label name="feature" value="RLToWOP Test--"/>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068756791" stop="1536068758262" status="passed">
+            <name>executeWopApiwithAccessTokenandToken</name>
+            <title>Execute WOP API Test case using  Token as a Authorization bearer token</title>
+            <steps>
+                <step start="1536068756794" stop="1536068756794" status="passed">
+                    <name>logStep[Started executing API Testing]</name>
+                    <title>Started executing API Testing</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756795" stop="1536068756795" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756842" stop="1536068756842" status="passed">
+                    <name>logStep[Verify Api Type is Get  or Post]</name>
+                    <title>Verify Api Type is Get  or Post</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756842" stop="1536068756842" status="passed">
+                    <name>logStep[Given url is Get API continue execution]</name>
+                    <title>Given url is Get API continue execution</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756844" stop="1536068756844" status="passed">
+                    <name>logStep[Given API is : https://api.us.apiconnect.ibmcloud.com/amc-networks-inc-dev/asit/1.2.0/adam/get]</name>
+                    <title>Given API is : https://api.us.apiconnect.ibmcloud.com/amc-networks-inc-dev/asit/1.2.0/adam/get</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756845" stop="1536068756845" status="passed">
+                    <name>logStep[Using Access tokena as Bearer : AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3Cm4Yj1H2XQj11Rt5bJoUpNxZFzK-...]</name>
+                    <title>Using Access tokena as Bearer : AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3Cm4Yj1H2XQj11Rt5bJoUpNxZFzK-DjLcDT4R...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756845" stop="1536068756845" status="passed">
+                    <name>logStep[Headers are: : Authorization------Bearer AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3Cm4Yj1H2XQj11Rt5bJo...]</name>
+                    <title>Headers are: : Authorization------Bearer AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3Cm4Yj1H2XQj11Rt5bJoUpNxZFzK...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756846" stop="1536068756846" status="passed">
+                    <name>logStep[Headers are: : Content-Type------application/xml]</name>
+                    <title>Headers are: : Content-Type------application/xml</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756846" stop="1536068756846" status="passed">
+                    <name>logStep[Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJ...]</name>
+                    <title>Using Access tokena as Bearer : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd29...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756846" stop="1536068756846" status="passed">
+                    <name>logStep[Headers are: : auth2------Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLC...]</name>
+                    <title>Headers are: : auth2------Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd2...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756847" stop="1536068756847" status="passed">
+                    <name>logStep[Headers are: : endpoint------https://cap-sg-prd-4.integration.ibmcloud.com:17433]</name>
+                    <title>Headers are: : endpoint------https://cap-sg-prd-4.integration.ibmcloud.com:17433</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756847" stop="1536068756847" status="passed">
+                    <name>logStep[Headers are: : resource------/dev/program/getEpisodeSeasonSeries/externalReference/RLA161393]</name>
+                    <title>Headers are: : resource------/dev/program/getEpisodeSeasonSeries/externalReference/RLA161393</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756847" stop="1536068756847" status="passed">
+                    <name>logStep[Headers are: : tls-profile------asit-wo-101059121-50697]</name>
+                    <title>Headers are: : tls-profile------asit-wo-101059121-50697</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068756848" stop="1536068756848" status="passed">
+                    <name>logStep[Headers are: : x-ibm-client-id------cebff59a-4e80-4a47-9c2a-6e25ec3c5397]</name>
+                    <title>Headers are: : x-ibm-client-id------cebff59a-4e80-4a47-9c2a-6e25ec3c5397</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758231" stop="1536068758231" status="passed">
+                    <name>logStep[Execution Completed and reading response now]</name>
+                    <title>Execution Completed and reading response now</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758234" stop="1536068758234" status="passed">
+                    <name>logStep[Verify Status code in response]</name>
+                    <title>Verify Status code in response</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758247" stop="1536068758247" status="passed">
+                    <name>logStep[API Esecuted Successfully]</name>
+                    <title>API Esecuted Successfully</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758260" stop="1536068758260" status="passed">
+                    <name>logStep[{"ES_PRODUCT":{"p_product_title":"Halloween II (1981)","intentionFromDefaultMediaAsset":"","oid":30318732527,"p_...]</name>
+                    <title>{"ES_PRODUCT":{"p_product_title":"Halloween II (1981)","intentionFromDefaultMediaAsset":"","oid":30318732527,"p_program_...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="story" value="RLToWOP Test--"/>
+                <label name="feature" value="RLToWOP Test--"/>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068758264" stop="1536068758369" status="passed">
+            <name>compareTitle</name>
+            <title>Compare Title Values in RL and WOP</title>
+            <steps>
+                <step start="1536068758265" stop="1536068758265" status="passed">
+                    <name>logStep[Started reading Responses from RL API ]</name>
+                    <title>Started reading Responses from RL API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758266" stop="1536068758266" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758309" stop="1536068758309" status="passed">
+                    <name>logStep[Validating Title param name in RL API]</name>
+                    <title>Validating Title param name in RL API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758310" stop="1536068758310" status="passed">
+                    <name>logStep[RL Param values are ------ : [Halloween II (1981)]]</name>
+                    <title>RL Param values are ------ : [Halloween II (1981)]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758311" stop="1536068758311" status="passed">
+                    <name>logStep[Started reading Responses from WOP API ]</name>
+                    <title>Started reading Responses from WOP API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758311" stop="1536068758311" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758335" stop="1536068758335" status="passed">
+                    <name>logStep[Validating Title param name in WOP API]</name>
+                    <title>Validating Title param name in WOP API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758335" stop="1536068758335" status="passed">
+                    <name>logStep[WOP Param values are ---- : [Halloween II (1981)]]</name>
+                    <title>WOP Param values are ---- : [Halloween II (1981)]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758336" stop="1536068758336" status="passed">
+                    <name>logStep[Comparing values for APIs Params]</name>
+                    <title>Comparing values for APIs Params</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758336" stop="1536068758336" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758364" stop="1536068758364" status="passed">
+                    <name>logStep[Comparing Titlefrom APIs]</name>
+                    <title>Comparing Titlefrom APIs</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758366" stop="1536068758366" status="passed">
+                    <name>logStep[Param values are matched for -------Title]</name>
+                    <title>Param values are matched for -------Title</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758367" stop="1536068758367" status="passed">
+                    <name>logStep[Halloween II (1981)-------Halloween II (1981)]</name>
+                    <title>Halloween II (1981)-------Halloween II (1981)</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="story" value="RLToWOP Test--"/>
+                <label name="feature" value="RLToWOP Test--"/>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068758371" stop="1536068758463" status="passed">
+            <name>compareSupplier</name>
+            <title>Compare Supplier Values in RL and WOP</title>
+            <steps>
+                <step start="1536068758373" stop="1536068758373" status="passed">
+                    <name>logStep[Started reading Responses from RL API ]</name>
+                    <title>Started reading Responses from RL API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758374" stop="1536068758374" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758397" stop="1536068758397" status="passed">
+                    <name>logStep[Validating Vendor param name in RL API]</name>
+                    <title>Validating Vendor param name in RL API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758398" stop="1536068758398" status="passed">
+                    <name>logStep[RL Param values are ------ : [NBC Universal]]</name>
+                    <title>RL Param values are ------ : [NBC Universal]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758399" stop="1536068758399" status="passed">
+                    <name>logStep[Started reading Responses from WOP API ]</name>
+                    <title>Started reading Responses from WOP API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758399" stop="1536068758399" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758431" stop="1536068758431" status="passed">
+                    <name>logStep[Validating Supplier param name in WOP API]</name>
+                    <title>Validating Supplier param name in WOP API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758432" stop="1536068758432" status="passed">
+                    <name>logStep[WOP Param values are ---- : [NBC Universal]]</name>
+                    <title>WOP Param values are ---- : [NBC Universal]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758432" stop="1536068758432" status="passed">
+                    <name>logStep[Comparing values for APIs Params]</name>
+                    <title>Comparing values for APIs Params</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758433" stop="1536068758433" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758460" stop="1536068758460" status="passed">
+                    <name>logStep[Comparing Supplierfrom APIs]</name>
+                    <title>Comparing Supplierfrom APIs</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758461" stop="1536068758461" status="passed">
+                    <name>logStep[Param values are matched for -------Supplier]</name>
+                    <title>Param values are matched for -------Supplier</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758461" stop="1536068758461" status="passed">
+                    <name>logStep[NBC Universal-------NBC Universal]</name>
+                    <title>NBC Universal-------NBC Universal</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068758465" stop="1536068758547" status="passed">
+            <name>compareAmcnid</name>
+            <title>Compare AMCN ID Values in RL and WOP</title>
+            <steps>
+                <step start="1536068758466" stop="1536068758466" status="passed">
+                    <name>logStep[Started reading Responses from RL API ]</name>
+                    <title>Started reading Responses from RL API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758466" stop="1536068758466" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758489" stop="1536068758489" status="passed">
+                    <name>logStep[Validating ID param name in RL API]</name>
+                    <title>Validating ID param name in RL API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758490" stop="1536068758490" status="passed">
+                    <name>logStep[RL Param values are ------ : [161393]]</name>
+                    <title>RL Param values are ------ : [161393]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758492" stop="1536068758492" status="passed">
+                    <name>logStep[Started reading Responses from WOP API ]</name>
+                    <title>Started reading Responses from WOP API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758492" stop="1536068758492" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758518" stop="1536068758518" status="passed">
+                    <name>logStep[Validating AMCN ID param name in WOP API]</name>
+                    <title>Validating AMCN ID param name in WOP API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758519" stop="1536068758519" status="passed">
+                    <name>logStep[WOP Param values are ---- : [RLA161393]]</name>
+                    <title>WOP Param values are ---- : [RLA161393]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758520" stop="1536068758520" status="passed">
+                    <name>logStep[Comparing values for APIs Params]</name>
+                    <title>Comparing values for APIs Params</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758520" stop="1536068758520" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758546" stop="1536068758546" status="passed">
+                    <name>logStep[Comparing AMCN IDfrom APIs]</name>
+                    <title>Comparing AMCN IDfrom APIs</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758547" stop="1536068758547" status="passed">
+                    <name>logStep[Param values are matched for-----AMCN ID--RLA161393=RLA161393]</name>
+                    <title>Param values are matched for-----AMCN ID--RLA161393=RLA161393</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068758551" stop="1536068758648" status="passed">
+            <name>compareAltTitle</name>
+            <title>Compare AltTitle Values in RL and WOP</title>
+            <steps>
+                <step start="1536068758552" stop="1536068758552" status="passed">
+                    <name>logStep[Started reading Responses from RL API ]</name>
+                    <title>Started reading Responses from RL API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758552" stop="1536068758552" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758577" stop="1536068758577" status="passed">
+                    <name>logStep[Validating Alt Title param name in RL API]</name>
+                    <title>Validating Alt Title param name in RL API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758578" stop="1536068758578" status="passed">
+                    <name>logStep[RL Param values are ------ : [Halloween II]]</name>
+                    <title>RL Param values are ------ : [Halloween II]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758578" stop="1536068758578" status="passed">
+                    <name>logStep[Started reading Responses from WOP API ]</name>
+                    <title>Started reading Responses from WOP API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758579" stop="1536068758579" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758609" stop="1536068758609" status="passed">
+                    <name>logStep[Validating Alt Title param name in WOP API]</name>
+                    <title>Validating Alt Title param name in WOP API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758610" stop="1536068758610" status="passed">
+                    <name>logStep[WOP Param values are ---- : [Halloween II (1981)]]</name>
+                    <title>WOP Param values are ---- : [Halloween II (1981)]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758610" stop="1536068758610" status="passed">
+                    <name>logStep[Comparing values for APIs Params]</name>
+                    <title>Comparing values for APIs Params</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758611" stop="1536068758611" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758646" stop="1536068758646" status="passed">
+                    <name>logStep[Comparing Alt Titlefrom APIs]</name>
+                    <title>Comparing Alt Titlefrom APIs</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758647" stop="1536068758647" status="passed">
+                    <name>logStep[Param values are matched for -------Alt Title]</name>
+                    <title>Param values are matched for -------Alt Title</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758647" stop="1536068758647" status="passed">
+                    <name>logStep[Halloween II (1981)-------Halloween II]</name>
+                    <title>Halloween II (1981)-------Halloween II</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068758650" stop="1536068758745" status="passed">
+            <name>compareReleaseyear</name>
+            <title>Compare Release Year Values in RL and WOP</title>
+            <steps>
+                <step start="1536068758651" stop="1536068758651" status="passed">
+                    <name>logStep[Started reading Responses from RL API ]</name>
+                    <title>Started reading Responses from RL API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758652" stop="1536068758652" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758679" stop="1536068758679" status="passed">
+                    <name>logStep[Validating Release Year param name in RL API]</name>
+                    <title>Validating Release Year param name in RL API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758680" stop="1536068758680" status="passed">
+                    <name>logStep[RL Param values are ------ : [1981]]</name>
+                    <title>RL Param values are ------ : [1981]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758680" stop="1536068758680" status="passed">
+                    <name>logStep[Started reading Responses from WOP API ]</name>
+                    <title>Started reading Responses from WOP API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758681" stop="1536068758681" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758709" stop="1536068758709" status="passed">
+                    <name>logStep[Validating Release Year param name in WOP API]</name>
+                    <title>Validating Release Year param name in WOP API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758710" stop="1536068758710" status="passed">
+                    <name>logStep[WOP Param values are ---- : [1981]]</name>
+                    <title>WOP Param values are ---- : [1981]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758711" stop="1536068758711" status="passed">
+                    <name>logStep[Comparing values for APIs Params]</name>
+                    <title>Comparing values for APIs Params</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758712" stop="1536068758712" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758741" stop="1536068758741" status="passed">
+                    <name>logStep[Comparing Release Yearfrom APIs]</name>
+                    <title>Comparing Release Yearfrom APIs</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758742" stop="1536068758742" status="passed">
+                    <name>logStep[Param values are matched for -------Release Year]</name>
+                    <title>Param values are matched for -------Release Year</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758743" stop="1536068758743" status="passed">
+                    <name>logStep[1981-------1981]</name>
+                    <title>1981-------1981</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068758751" stop="1536068758858" status="passed">
+            <name>compareAltTitleType</name>
+            <title>Compare Alternative Title Type Values in RL and WOP</title>
+            <steps>
+                <step start="1536068758752" stop="1536068758752" status="passed">
+                    <name>logStep[Started reading Responses from RL API ]</name>
+                    <title>Started reading Responses from RL API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758753" stop="1536068758753" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758790" stop="1536068758790" status="passed">
+                    <name>logStep[Validating Alt Title Type param name in RL API]</name>
+                    <title>Validating Alt Title Type param name in RL API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758791" stop="1536068758791" status="passed">
+                    <name>logStep[RL Param values are ------ : [AKA]]</name>
+                    <title>RL Param values are ------ : [AKA]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758792" stop="1536068758792" status="passed">
+                    <name>logStep[Started reading Responses from WOP API ]</name>
+                    <title>Started reading Responses from WOP API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758792" stop="1536068758792" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758821" stop="1536068758821" status="passed">
+                    <name>logStep[Validating Alt Title Type param name in WOP API]</name>
+                    <title>Validating Alt Title Type param name in WOP API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758822" stop="1536068758822" status="passed">
+                    <name>logStep[WOP Param values are ---- : [OriginalTitle]]</name>
+                    <title>WOP Param values are ---- : [OriginalTitle]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758823" stop="1536068758823" status="passed">
+                    <name>logStep[Comparing values for APIs Params]</name>
+                    <title>Comparing values for APIs Params</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758823" stop="1536068758823" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1536068758861" stop="1536068758933" status="passed">
+            <name>compareFirstName</name>
+            <title>Compare First Name Values in RL and WOP</title>
+            <steps>
+                <step start="1536068758863" stop="1536068758863" status="passed">
+                    <name>logStep[Started reading Responses from RL API ]</name>
+                    <title>Started reading Responses from RL API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758863" stop="1536068758863" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758887" stop="1536068758887" status="passed">
+                    <name>logStep[Validating First Name param name in RL API]</name>
+                    <title>Validating First Name param name in RL API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758887" stop="1536068758887" status="passed">
+                    <name>logStep[RL Param values are ------ : [Rick Rosenthal]]</name>
+                    <title>RL Param values are ------ : [Rick Rosenthal]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758888" stop="1536068758888" status="passed">
+                    <name>logStep[Started reading Responses from WOP API ]</name>
+                    <title>Started reading Responses from WOP API </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758888" stop="1536068758888" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758906" stop="1536068758906" status="passed">
+                    <name>logStep[Validating First Name param name in WOP API]</name>
+                    <title>Validating First Name param name in WOP API</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758906" stop="1536068758906" status="passed">
+                    <name>logStep[WOP Param values are ---- : [Rick Rosenthal]]</name>
+                    <title>WOP Param values are ---- : [Rick Rosenthal]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758907" stop="1536068758907" status="passed">
+                    <name>logStep[Comparing values for APIs Params]</name>
+                    <title>Comparing values for APIs Params</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758907" stop="1536068758907" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758931" stop="1536068758931" status="passed">
+                    <name>logStep[Comparing First Namefrom APIs]</name>
+                    <title>Comparing First Namefrom APIs</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758931" stop="1536068758931" status="passed">
+                    <name>logStep[Param values are matched for -------First Name]</name>
+                    <title>Param values are matched for -------First Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1536068758932" stop="1536068758932" status="passed">
+                    <name>logStep[Rick Rosenthal-------Rick Rosenthal]</name>
+                    <title>Rick Rosenthal-------Rick Rosenthal</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="MONO-HYD-LAP-30"/>
+                <label name="thread" value="17084@MONO-HYD-LAP-30.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="38" passed="33">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35006" started-at="2018-09-04T14:12:21Z" finished-at="2018-09-04T14:12:56Z">
+    <groups>
+    </groups>
+    <test name="ZEUStoWOP" duration-ms="18973" started-at="2018-09-04T14:12:21Z" finished-at="2018-09-04T14:12:40Z">
+      <class name="com.apihttps.test.ZeusToWOP">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.apihttps.test.ZeusToWOP@39ffda4a]" name="start" is-config="true" duration-ms="66" started-at="2018-09-04T14:12:21Z" finished-at="2018-09-04T14:12:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="executeRLAPIforgettingAccessToken()[pri:1, instance:com.apihttps.test.ZeusToWOP@39ffda4a]" name="executeRLAPIforgettingAccessToken" duration-ms="5210" started-at="2018-09-04T14:12:21Z" finished-at="2018-09-04T14:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeRLAPIforgettingAccessToken -->
+        <test-method status="PASS" signature="executeRLGetApiwithAccessToken()[pri:2, instance:com.apihttps.test.ZeusToWOP@39ffda4a]" name="executeRLGetApiwithAccessToken" duration-ms="643" started-at="2018-09-04T14:12:26Z" finished-at="2018-09-04T14:12:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeRLGetApiwithAccessToken -->
+        <test-method status="PASS" signature="executeWOPApiforAccessToken()[pri:3, instance:com.apihttps.test.ZeusToWOP@39ffda4a]" name="executeWOPApiforAccessToken" duration-ms="1750" started-at="2018-09-04T14:12:27Z" finished-at="2018-09-04T14:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeWOPApiforAccessToken -->
+        <test-method status="PASS" signature="executeWOPApiforToken()[pri:4, instance:com.apihttps.test.ZeusToWOP@39ffda4a]" name="executeWOPApiforToken" duration-ms="1577" started-at="2018-09-04T14:12:29Z" finished-at="2018-09-04T14:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeWOPApiforToken -->
+        <test-method status="PASS" signature="executeFinalWopApiwithAccessTokenandToken()[pri:5, instance:com.apihttps.test.ZeusToWOP@39ffda4a]" name="executeFinalWopApiwithAccessTokenandToken" duration-ms="1565" started-at="2018-09-04T14:12:30Z" finished-at="2018-09-04T14:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeFinalWopApiwithAccessTokenandToken -->
+        <test-method status="PASS" signature="ConnectDB()[pri:6, instance:com.apihttps.test.ZeusToWOP@39ffda4a]" name="ConnectDB" duration-ms="7700" started-at="2018-09-04T14:12:32Z" finished-at="2018-09-04T14:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConnectDB -->
+        <test-method status="PASS" signature="Definition()[pri:7, instance:com.apihttps.test.ZeusToWOP@39ffda4a]" name="Definition" duration-ms="76" started-at="2018-09-04T14:12:40Z" finished-at="2018-09-04T14:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Definition -->
+        <test-method status="PASS" signature="SEGMENT_COUNT()[pri:7, instance:com.apihttps.test.ZeusToWOP@39ffda4a]" name="SEGMENT_COUNT" duration-ms="64" started-at="2018-09-04T14:12:40Z" finished-at="2018-09-04T14:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SEGMENT_COUNT -->
+        <test-method status="PASS" signature="aspectRatio()[pri:8, instance:com.apihttps.test.ZeusToWOP@39ffda4a]" name="aspectRatio" duration-ms="65" started-at="2018-09-04T14:12:40Z" finished-at="2018-09-04T14:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aspectRatio -->
+        <test-method status="PASS" signature="End()[pri:0, instance:com.apihttps.test.ZeusToWOP@39ffda4a]" name="End" is-config="true" duration-ms="1" started-at="2018-09-04T14:12:40Z" finished-at="2018-09-04T14:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- com.apihttps.test.ZeusToWOP -->
+    </test> <!-- ZEUStoWOP -->
+    <test name="RLtoWOP" duration-ms="7191" started-at="2018-09-04T14:12:41Z" finished-at="2018-09-04T14:12:48Z">
+      <class name="com.apihttps.test.RLtoWOP">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="start" is-config="true" duration-ms="1" started-at="2018-09-04T14:12:41Z" finished-at="2018-09-04T14:12:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="executeRLAPIforgettingAccessToken()[pri:1, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="executeRLAPIforgettingAccessToken" duration-ms="1185" started-at="2018-09-04T14:12:41Z" finished-at="2018-09-04T14:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeRLAPIforgettingAccessToken -->
+        <test-method status="PASS" signature="executeRLGetApiwithAccessToken()[pri:2, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="executeRLGetApiwithAccessToken" duration-ms="595" started-at="2018-09-04T14:12:42Z" finished-at="2018-09-04T14:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeRLGetApiwithAccessToken -->
+        <test-method status="PASS" signature="executeWOPApiforAccessToken()[pri:3, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="executeWOPApiforAccessToken" duration-ms="1285" started-at="2018-09-04T14:12:43Z" finished-at="2018-09-04T14:12:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeWOPApiforAccessToken -->
+        <test-method status="PASS" signature="executeWOPApiforToken()[pri:4, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="executeWOPApiforToken" duration-ms="1553" started-at="2018-09-04T14:12:44Z" finished-at="2018-09-04T14:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeWOPApiforToken -->
+        <test-method status="PASS" signature="executeWopApiwithAccessTokenandToken()[pri:5, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="executeWopApiwithAccessTokenandToken" duration-ms="1477" started-at="2018-09-04T14:12:46Z" finished-at="2018-09-04T14:12:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeWopApiwithAccessTokenandToken -->
+        <test-method status="PASS" signature="compareTitle()[pri:6, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="compareTitle" duration-ms="198" started-at="2018-09-04T14:12:47Z" finished-at="2018-09-04T14:12:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareTitle -->
+        <test-method status="PASS" signature="compareSupplier()[pri:8, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="compareSupplier" duration-ms="162" started-at="2018-09-04T14:12:47Z" finished-at="2018-09-04T14:12:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareSupplier -->
+        <test-method status="PASS" signature="compareAmcnid()[pri:9, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="compareAmcnid" duration-ms="160" started-at="2018-09-04T14:12:47Z" finished-at="2018-09-04T14:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareAmcnid -->
+        <test-method status="PASS" signature="compareAltTitle()[pri:10, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="compareAltTitle" duration-ms="146" started-at="2018-09-04T14:12:48Z" finished-at="2018-09-04T14:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareAltTitle -->
+        <test-method status="PASS" signature="compareReleaseyear()[pri:11, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="compareReleaseyear" duration-ms="124" started-at="2018-09-04T14:12:48Z" finished-at="2018-09-04T14:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareReleaseyear -->
+        <test-method status="PASS" signature="compareAltTitleType()[pri:12, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="compareAltTitleType" duration-ms="144" started-at="2018-09-04T14:12:48Z" finished-at="2018-09-04T14:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareAltTitleType -->
+        <test-method status="PASS" signature="compareFirstName()[pri:13, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="compareFirstName" duration-ms="108" started-at="2018-09-04T14:12:48Z" finished-at="2018-09-04T14:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareFirstName -->
+        <test-method status="PASS" signature="End()[pri:0, instance:com.apihttps.test.RLtoWOP@2db1b657]" name="End" is-config="true" duration-ms="0" started-at="2018-09-04T14:12:48Z" finished-at="2018-09-04T14:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- com.apihttps.test.RLtoWOP -->
+    </test> <!-- RLtoWOP -->
+    <test name="MPtoWOP" duration-ms="7665" started-at="2018-09-04T14:12:48Z" finished-at="2018-09-04T14:12:56Z">
+      <class name="com.apihttps.test.MPtoWOP">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="start" is-config="true" duration-ms="1" started-at="2018-09-04T14:12:48Z" finished-at="2018-09-04T14:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="executeRLAPIforgettingAccessToken()[pri:1, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="executeRLAPIforgettingAccessToken" duration-ms="1212" started-at="2018-09-04T14:12:48Z" finished-at="2018-09-04T14:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeRLAPIforgettingAccessToken -->
+        <test-method status="PASS" signature="executeRLGetApiwithAccessToken()[pri:2, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="executeRLGetApiwithAccessToken" duration-ms="574" started-at="2018-09-04T14:12:49Z" finished-at="2018-09-04T14:12:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeRLGetApiwithAccessToken -->
+        <test-method status="PASS" signature="executeWOPApiforAccessToken()[pri:3, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="executeWOPApiforAccessToken" duration-ms="1225" started-at="2018-09-04T14:12:50Z" finished-at="2018-09-04T14:12:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeWOPApiforAccessToken -->
+        <test-method status="PASS" signature="executeWOPApiforToken()[pri:4, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="executeWOPApiforToken" duration-ms="1407" started-at="2018-09-04T14:12:51Z" finished-at="2018-09-04T14:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeWOPApiforToken -->
+        <test-method status="PASS" signature="executeFinalWopApiwithAccessTokenandToken()[pri:5, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="executeFinalWopApiwithAccessTokenandToken" duration-ms="1439" started-at="2018-09-04T14:12:53Z" finished-at="2018-09-04T14:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeFinalWopApiwithAccessTokenandToken -->
+        <test-method status="PASS" signature="executeMPApiwithAccessTokenandToken()[pri:6, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="executeMPApiwithAccessTokenandToken" duration-ms="1020" started-at="2018-09-04T14:12:54Z" finished-at="2018-09-04T14:12:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeMPApiwithAccessTokenandToken -->
+        <test-method status="PASS" signature="compareTitle()[pri:7, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="compareTitle" duration-ms="126" started-at="2018-09-04T14:12:55Z" finished-at="2018-09-04T14:12:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareTitle -->
+        <test-method status="PASS" signature="compareAMCNID()[pri:8, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="compareAMCNID" duration-ms="90" started-at="2018-09-04T14:12:55Z" finished-at="2018-09-04T14:12:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareAMCNID -->
+        <test-method status="PASS" signature="compareshowtype()[pri:9, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="compareshowtype" duration-ms="133" started-at="2018-09-04T14:12:55Z" finished-at="2018-09-04T14:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareshowtype -->
+        <test-method status="PASS" signature="compareReleaseYear()[pri:10, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="compareReleaseYear" duration-ms="138" started-at="2018-09-04T14:12:56Z" finished-at="2018-09-04T14:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareReleaseYear -->
+        <test-method status="PASS" signature="CompareAssetSource()[pri:11, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="CompareAssetSource" duration-ms="142" started-at="2018-09-04T14:12:56Z" finished-at="2018-09-04T14:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompareAssetSource -->
+        <test-method status="PASS" signature="OwnerNetwork()[pri:11, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="OwnerNetwork" duration-ms="102" started-at="2018-09-04T14:12:56Z" finished-at="2018-09-04T14:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OwnerNetwork -->
+        <test-method status="PASS" signature="End()[pri:0, instance:com.apihttps.test.MPtoWOP@60990e5c]" name="End" is-config="true" duration-ms="2" started-at="2018-09-04T14:12:56Z" finished-at="2018-09-04T14:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- com.apihttps.test.MPtoWOP -->
+    </test> <!-- MPtoWOP -->
+  </suite> <!-- Suite -->
+</testng-results>

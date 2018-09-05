@@ -1,0 +1,2 @@
+mvn install:install-file -Cfile=C:\Users\bvijay\Downloads\com.apihttps.test_29-08-2018\com.apihttps.test\lib\ojdbc6-11.2.0.3.jar\ojdbc6-11.2.0.3.jar -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0 -Dpackaging=jar
+
